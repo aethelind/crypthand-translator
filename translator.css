@@ -134,6 +134,7 @@ p {
     border: solid 5px;
     line-height: 1;
     height: 300px;
+    overflow: auto;
 }
 
 .about {
